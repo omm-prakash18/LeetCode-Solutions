@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -51,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0969-pancake-sorting](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0969-pancake-sorting](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
 ## Prefix Sum
 |  |
