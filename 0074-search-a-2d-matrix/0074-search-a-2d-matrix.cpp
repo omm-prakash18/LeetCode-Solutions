@@ -3,7 +3,7 @@ public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) 
     {
         int m = matrix.size();
-        // Check for empty matrix before accessing matrix[0]
+        
         if (m == 0) {
             return false;
         }
