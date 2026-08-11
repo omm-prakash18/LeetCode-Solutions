@@ -20,6 +20,7 @@ public:
                 x = x * x;
                 power = power / 2;
             }
+            // lest number of computation
         }
         
         return ans;
