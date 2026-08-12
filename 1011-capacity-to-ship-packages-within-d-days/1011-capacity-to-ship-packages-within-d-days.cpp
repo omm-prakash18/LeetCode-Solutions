@@ -40,6 +40,6 @@ public:
             }
         }
         
-        return low; // low and high converge to the minimum valid capacity
+        return low; 
     }
 };
