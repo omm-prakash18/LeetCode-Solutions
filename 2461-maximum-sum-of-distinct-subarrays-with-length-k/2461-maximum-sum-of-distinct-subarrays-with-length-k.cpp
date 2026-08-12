@@ -9,9 +9,11 @@ public:
         long long currentSum = 0;
         int left = 0;
 
-        for (int right = 0; right < n; right++) {
+        for (int right = 0; right < n; right++) 
+        {
             
-            while (windowSet.count(nums[right])) {
+            while (windowSet.count(nums[right])) 
+            {
                 windowSet.erase(nums[left]);
                 currentSum -= nums[left];
                 left++;
