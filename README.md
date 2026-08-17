@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0969-pancake-sorting](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
 ## Greedy
 |  |
