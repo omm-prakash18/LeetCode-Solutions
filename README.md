@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0969-pancake-sorting](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
@@ -123,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
