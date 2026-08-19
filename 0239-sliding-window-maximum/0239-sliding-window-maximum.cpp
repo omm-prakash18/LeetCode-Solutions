@@ -1,7 +1,4 @@
-#include <vector>
-#include <deque>
 
-using namespace std;
 
 class Solution {
 public:
