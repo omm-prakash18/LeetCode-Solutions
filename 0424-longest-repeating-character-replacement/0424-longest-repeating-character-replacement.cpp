@@ -11,11 +11,9 @@ public:
             count[s[right] - 'A']++;
             
             
-            max_freq = max(max_freq, count[s[right] - 'A']);
-
-            
-            while ((right - left + 1) - max_freq > k) {
-                
+            max_freq = max(max_freq, count[s[right] - 'A']);   
+            while ((right - left + 1) - max_freq > k) 
+            {   
                 count[s[left] - 'A']--;
                 left++;
             }
