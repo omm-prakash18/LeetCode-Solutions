@@ -10,10 +10,10 @@ public:
 
         while (list1 != nullptr && list2 != nullptr) {
             if (head == nullptr) {
-                // 2. Changed '.' to '->'
+                
                 if (list1->val < list2->val) {
                     ptr = head = list1;
-                    // 2. Changed '.' to '->'
+                    
                     list1 = list1->next; 
                 } else {
                     ptr = head = list2;
@@ -25,12 +25,12 @@ public:
             if (list1->val < list2->val) {
                 ptr->next = list1;
                 ptr = list1;
-                // 3. Fixed typo 'list' to 'list1'
+                
                 list1 = list1->next; 
             } else {
                 ptr->next = list2;
                 ptr = list2;
-                // 3. Fixed typo 'list' to 'list2'
+                
                 list2 = list2->next; 
             }
         }
