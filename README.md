@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
