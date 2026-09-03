@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
