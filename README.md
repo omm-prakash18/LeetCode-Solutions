@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Dynamic Programming
@@ -241,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
