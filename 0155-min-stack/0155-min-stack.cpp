@@ -2,7 +2,7 @@
 class MinStack {
 private:
     
-    std::stack<std::pair<int, int>> st;
+    stack<pair<int, int>> st;
 
 public:
     
@@ -16,7 +16,7 @@ public:
         } else {
             
             int current_min = st.top().second;
-            st.push({val, std::min(val, current_min)});
+            st.push({val, min(val, current_min)});
         }
     }
     
