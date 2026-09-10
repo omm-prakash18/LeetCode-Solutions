@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0705-design-hashset](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Union-Find
 |  |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
@@ -297,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0146-lru-cache) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
