@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0969-pancake-sorting](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
+| [1051-height-checker](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1051-height-checker) |
 ## Array
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
 | [1004-max-consecutive-ones-iii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1051-height-checker](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -332,4 +334,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
