@@ -12,11 +12,11 @@ public:
 
             if (target == currentSum)
             {
-                ans.push_back(left + 1);  // LeetCode "Two Sum II" usually expects 1-based indices
-                ans.push_back(right + 1); // Use numbers[left] and numbers[right] if you need values instead
-                return ans;               // Return immediately to prevent an infinite loop
+                ans.push_back(left + 1);  
+                ans.push_back(right + 1); 
+                return ans;               
             }
-            else if (target > currentSum) // Fixed: Added missing closing parenthesis here
+            else if (target > currentSum) 
             {
                 left++;
             }
