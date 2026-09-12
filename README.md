@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1768-merge-strings-alternately](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0969-pancake-sorting](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
+| [1768-merge-strings-alternately](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
