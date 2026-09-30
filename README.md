@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1669-merge-in-between-linked-lists](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1669-merge-in-between-linked-lists) |
 ## Union-Find
 |  |
 | ------- |
