@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0523-continuous-subarray-sum](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
