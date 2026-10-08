@@ -20,18 +20,19 @@ public:
 private:
     
     int calculateDepth(TreeNode* root, int& maxDiameter) {
-
-        if (root == nullptr) {
+        if(!root)
+        {
             return 0;
         }
 
-        
-        int leftDepth = calculateDepth(root->left, maxDiameter);
-        int rightDepth = calculateDepth(root->right, maxDiameter);
+        int left =calculateDepth(root->left,maxDiameter);
+        int right =calculateDepth(root->right,maxDiameter);
 
-       
-        maxDiameter = max(maxDiameter, leftDepth + rightDepth);
+        maxDiameter =max(maxDiameter,left+right);
 
-        return max(leftDepth, rightDepth) + 1;
-    }
+        return max(left,right)+1;
+
+   }
 };
+
+//important
