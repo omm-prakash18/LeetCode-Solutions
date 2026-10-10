@@ -11,65 +11,6 @@
  */
 class Solution {
 public:
-    TreeNode* insertIntoBST(TreeNode* root, int val) 
-    {
-        if(!root)
-        {
-            return new TreeNode(val);
-        }
-        if(val > root->val)
-        {
-            root->right = insertIntoBST(root->right, val);
-        }
-        else
-        {
-            root->left = insertIntoBST(root->left, val);
-        }
-        return root;
-    }
-    
-    vector<int> levelOrder(TreeNode* root) 
-    {
-        if (!root) {
-            return {};
-        }
-        
-        queue<TreeNode*> q;
-        vector<int> ans;
-        
-        q.push(root);
-
-        while(!q.empty())
-        {
-            int level = q.size();
-            vector<int> store;
-
-            for(int i = 0; i < level; i++)
-            {
-                TreeNode* node = q.front();
-                q.pop();
-
-                store.push_back(node->val);
-                
-                if(node->left)
-                {
-                    q.push(node->left);
-                }
-                if(node->right)
-                {
-                    q.push(node->right);
-                }
-            }
-            
-            for(int j = 0; j < store.size(); j++)
-            {
-                ans.push_back(store[j]);
-            }
-        }
-        
-        return ans;
-    }
-
     
     TreeNode* buildBST(vector<int>& nums, int left, int right) {
         if (left > right) {
