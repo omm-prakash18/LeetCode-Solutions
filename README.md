@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -509,11 +512,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## String Matching
 |  |
 | ------- |
