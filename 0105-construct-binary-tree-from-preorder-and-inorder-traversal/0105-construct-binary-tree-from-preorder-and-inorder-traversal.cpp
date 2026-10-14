@@ -24,24 +24,24 @@ public:
                         vector<int>& inorder, int inStart, int inEnd, 
                         map<int, int>& inMap) {
     
-    if (preStart > preEnd || inStart > inEnd) {
-        return nullptr; 
-    }
+        if (preStart > preEnd || inStart > inEnd) {
+            return nullptr; 
+        }
 
+
+        TreeNode* root = new TreeNode(preorder[preStart]);
+
+        int inRoot = inMap[root->val];
+
+        int numsLeft = inRoot - inStart;
+
+        root->left = constructTree(preorder, preStart + 1, preStart + numsLeft,
+                                   inorder, inStart, inRoot - 1, inMap);
     
-    TreeNode* root = new TreeNode(preorder[preStart]);
+        root->right = constructTree(preorder, preStart + numsLeft + 1, preEnd,
+                                    inorder, inRoot + 1, inEnd, inMap);
 
-    int inRoot = inMap[root->val];
-    
-    int numsLeft = inRoot - inStart;
-
-    root->left = constructTree(preorder, preStart + 1, preStart + numsLeft,
-                               inorder, inStart, inRoot - 1, inMap);
-   
-    root->right = constructTree(preorder, preStart + numsLeft + 1, preEnd,
-                                inorder, inRoot + 1, inEnd, inMap);
-
-    return root;
-}
+        return root;
+    }   
 };
-// today's my potd
+// 
