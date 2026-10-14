@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0290-word-pattern) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0344-reverse-string](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0456-132-pattern](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0682-baseball-game](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
