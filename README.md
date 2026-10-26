@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
+| [0993-cousins-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
+| [0993-cousins-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
+| [0993-cousins-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0993-cousins-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
