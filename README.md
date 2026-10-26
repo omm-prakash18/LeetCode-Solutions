@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0993-cousins-in-binary-tree) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0993-cousins-in-binary-tree) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0993-cousins-in-binary-tree) |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
