@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## Quicksort
 |  |
 | ------- |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0460-lfu-cache](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0705-design-hashset) |
