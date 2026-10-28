@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0146-lru-cache) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0162-find-peak-element) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0139-word-break) |
 ## Quicksort
 |  |
 | ------- |
@@ -591,4 +596,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
