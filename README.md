@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2707-extra-characters-in-a-string](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1768-merge-strings-alternately](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2707-extra-characters-in-a-string](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2707-extra-characters-in-a-string](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3208-alternating-groups-ii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/3208-alternating-groups-ii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0139-word-break) |
+| [2707-extra-characters-in-a-string](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -363,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [2707-extra-characters-in-a-string](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 ## Quicksort
 |  |
 | ------- |
