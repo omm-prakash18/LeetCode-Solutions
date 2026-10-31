@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
 | [1004-max-consecutive-ones-iii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
 |  |
 | ------- |
