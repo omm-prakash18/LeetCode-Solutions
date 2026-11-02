@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0456-132-pattern) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
