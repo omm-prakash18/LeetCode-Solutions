@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0993-cousins-in-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0993-cousins-in-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0993-cousins-in-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
