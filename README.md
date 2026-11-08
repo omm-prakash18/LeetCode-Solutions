@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2707-extra-characters-in-a-string](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3875-construct-uniform-parity-array-i](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Memoization
 |  |
 | ------- |
@@ -669,4 +673,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
