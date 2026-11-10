@@ -651,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
