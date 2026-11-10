@@ -14,7 +14,7 @@ public:
         temp.push_back(start);
         backtrack(start + 1, n, k - 1, temp, result); 
         temp.pop_back();
-        backtrack(start + 1, n, k, temp, result);     // k stays the same
+        backtrack(start + 1, n, k, temp, result);    
     } 
 
     vector<vector<int>> combine(int n, int k) {
