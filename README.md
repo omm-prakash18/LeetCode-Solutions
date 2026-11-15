@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0953-verifying-an-alien-dictionary](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [0997-find-the-town-judge](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0969-pancake-sorting](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0997-find-the-town-judge](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
@@ -698,4 +700,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
