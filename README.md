@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3208-alternating-groups-ii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/3208-alternating-groups-ii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3875-construct-uniform-parity-array-i](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3875-construct-uniform-parity-array-i](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3208-alternating-groups-ii](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/3208-alternating-groups-ii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -710,8 +713,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Graph Theory
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/omm-prakash18/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
